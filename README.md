@@ -4,7 +4,7 @@ This is a job scheduling microservice built with NestJS, TypeORM, and node-sched
 
 ## Features
 - Schedule jobs using cron syntax.
-- Supports job creation, listing, and cancellation.
+- Supports job creation and listing.
 - Simple cron-based job scheduling without external databases.
 
 ## Prerequisites
